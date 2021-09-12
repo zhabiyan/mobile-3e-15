@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Relative Layout</string>
+    <string name="app_name">HelloWorld</string>
     <string name="helloWorldText">Hello World</string>
     <string name="secondText">From strings.xml</string>
     <string name="startText">start learning</string>
